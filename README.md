@@ -2,7 +2,8 @@
 
 ## Objective: Identify Phishing Websites 
 
-### Brief description of data: 30 categorical features, one target variable with 2 categories.
+### Brief description of data: 
+30 categorical features, one target variable with 2 categories.
 
 ### Libraries used:
 pandas, numpy, matplotlib, seaborn, scikit-learn
